@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Store Manager\n"
+"POT-Creation-Date: 2016-03-08 12:19+0100\n"
+"PO-Revision-Date: 2016-03-08 12:19+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _;__;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: includes\n"
+"X-Poedit-SearchPathExcluded-0: leaflet\n"
+"X-Poedit-SearchPathExcluded-1: lang\n"
+
+#: includes/class-jw-player.php:33
+msgid "JW Player Options"
+msgstr "JW Player Opties"
+
+#: includes/class-jw-player.php:37
+msgid "Key"
+msgstr "Sleutel"
+
+#: includes/class-jw-player.php:43
+msgid "Javascript file location"
+msgstr "Javascript bestand locatie"
+
+#: includes/class-jw-player.php:51
+msgid "Save changes"
+msgstr "Veranderingen opslaan"
+
+#: includes/class-jw-player.php:65
+msgid "JW Player needs a key."
+msgstr "JW Player heeft een sleutel nodig."
+
+#: includes/class-jw-player.php:69
+msgid "JW Player javascript file not found."
+msgstr "JW Player javascript bestand niet gevonden."
+
+#: includes/class-jw-player.php:89
+#, php-format
+msgid "Could not find media with id : %s"
+msgstr "Kon media met id : %s niet vinden"
+
+#: includes/class-jw-player.php:106
+msgid "Could not find source file."
+msgstr "Kon bronbestand niet vinden."
+
+#: includes/class-jw-player.php:111
+msgid "Loading video ..."
+msgstr "Video aan het laden ..."
+
+#~ msgid "Address"
+#~ msgstr "Adres"
+
+#~ msgid "Address (extra line)"
+#~ msgstr "Adres (tweede regel)"
+
+#~ msgid "Zipcode"
+#~ msgstr "Postcode"
+
+#~ msgid "Place"
+#~ msgstr "Plaats"
+
+#~ msgid "Country"
+#~ msgstr "Land"
+
+#~ msgid "Radius"
+#~ msgstr "Radius"
+
+#~ msgid "Submit"
+#~ msgstr "Verzenden"
+
+#~ msgid "Sunday"
+#~ msgstr "Zondag"
+
+#~ msgid "Monday"
+#~ msgstr "Maandag"
+
+#~ msgid "Tuesday"
+#~ msgstr "Dinsdag"
+
+#~ msgid "Wednesday"
+#~ msgstr "Woensdag"
+
+#~ msgid "Thursday"
+#~ msgstr "Donderdag"
+
+#~ msgid "Friday"
+#~ msgstr "Vrijdag"
+
+#~ msgid "Saturday"
+#~ msgstr "Zaterdag"
+
+#~ msgid "Contact person"
+#~ msgstr "Contactpersoon"
+
+#~ msgid "Email address"
+#~ msgstr "Email adres"
+
+#~ msgid "Phone number"
+#~ msgstr "Telefoonnummer"
+
+#~ msgid "Website"
+#~ msgstr "Website"
+
+#~ msgid "Stores"
+#~ msgstr "Winkels"
+
+#~ msgid "Store"
+#~ msgstr "Winkel"
+
+#~ msgid "Add New"
+#~ msgstr "Nieuwe toevoegen"
+
+#~ msgid "Add New Store"
+#~ msgstr "Nieuwe winkel toevoegen"
+
+#~ msgid "New Store"
+#~ msgstr "Nieuwe winkel"
+
+#~ msgid "Edit Store"
+#~ msgstr "Winkel bewerken"
+
+#~ msgid "View Store"
+#~ msgstr "Winkel bekijken"
+
+#~ msgid "All Stores"
+#~ msgstr "Alle winkels"
+
+#~ msgid "Search Stores"
+#~ msgstr "Winkels zoeken"
+
+#~ msgid "Parent Stores:"
+#~ msgstr "Ouder winkels:"
+
+#~ msgid "No stores found."
+#~ msgstr "Geen winkels gevonden."
+
+#~ msgid "No stores found in Trash."
+#~ msgstr "Geen winkels gevonden in de prullenbak."
+
+#~ msgid "Store Manager"
+#~ msgstr "Winkel beheerder"
+
+#~ msgid "Options"
+#~ msgstr "Opties"
+
+#~ msgid "Photo gallery"
+#~ msgstr "Fotogalerij"
+
+#~ msgid "Contact Information"
+#~ msgstr "Contactinformatie"
+
+#~ msgid "Opening Hours"
+#~ msgstr "Openingstijden"
+
+#~ msgid "Edit photo gallery"
+#~ msgstr "Fotogalerij bewerken"
+
+#~ msgid "Check address at your geocoding provider"
+#~ msgstr "Adres controleren bij uw geocoderingsleverancier"
+
+#~ msgid "Add Time slot"
+#~ msgstr "Tijdsleuf toevoegen"
+
+#~ msgid "Store Manager Options"
+#~ msgstr "Winkel beheerder opties"
+
+#~ msgid "Unit"
+#~ msgstr "Eenheid"
+
+#~ msgid "Kilometres"
+#~ msgstr "Kilometer"
+
+#~ msgid "Miles"
+#~ msgstr "Mijl"
+
+#~ msgid "Geolocation provider"
+#~ msgstr "Geolocatie leverancier"
+
+#~ msgid "Save Changes"
+#~ msgstr "Veranderingen opslaan"
+
+#~ msgid "check coordinates on the map"
+#~ msgstr "Coördinaten controleren op de kaart"
+
+#~ msgid "Nothing found"
+#~ msgstr "Niets gevonden"
+
+#~ msgid "Could not find supplier"
+#~ msgstr "Kon leverancier niet vinden"
+
+#~ msgid "Could not find coordinates for this address"
+#~ msgstr "Kon geen coördinaten vinden voor dit adres"
+
+#~ msgid "Incorrect input"
+#~ msgstr "Ongeldige invoer"
+
+#~ msgid "API browser Key"
+#~ msgstr "API browser key"
+
+#~ msgid "API server Key"
+#~ msgstr "API server Key"
+
+#~ msgid "Source string"
+#~ msgstr "Bron string"
+
+#~ msgid "Base URL to external map"
+#~ msgstr "Basis URL voor de externe kaart"
+
+#~ msgid "Nominatim base URL"
+#~ msgstr "Nominatim basis URL"
+
+#~ msgid "contact page manager"
+#~ msgstr "Contacteer pagina beheerder"
